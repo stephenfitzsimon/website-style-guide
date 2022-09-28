@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400&display=swap');
+
+html {
+    background-color: antiquewhite;
+    font-family: 'Poppins';
+}
+
+section {
+    border: 1px solid black;
+    padding: 10px 10px;
+    margin: 20px auto;
+}
+
+div {
+    padding: 10px;
+    margin: 0 auto;
+}
+
+/* TEXT STYLES SECTION */
+
+.heading_1 h1{
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Ubuntu';
+}
+
+.subheading_2 h2 {
+    font-weight: normal;
+    font-size: 25px;
+    font-style: italic;
+    font-family: 'Ubuntu';
+}
+
+.paragraph p {
+    font-weight: normal;
+    font-size: 15px;
+    font-family: 'Merriweather';
+}
+
+/* FONTS SECTION */
+
+.font_style {
+    padding: 10px 10px;
+    display: inline-block;
+    font-family: 'Ubuntu';
+}
+
+.courier {
+    font-family: 'Courier Prime', monospace;
+}
+
+.ubuntu {
+    font-family: 'Ubuntu';
+}
+
+.merriweather {
+    font-family: 'Merriweather';
+}
+
+.poppins {
+    font-family: 'Poppins';
+}
+
+.fonts .italic {
+    font-style: italic;
+}
+
+.fonts .bold {
+    font-weight: bold;
+}
+
+/* COLORS SECTIONS */
+
+.colors table {
+    width: 100%;
+}
+
+.palettes td {
+    padding: 20px 20px;
+    text-align: center;
+}
+
+.blue_green_1 {
+    background-color: #d5f4e6;
+}
+.blue_green_2 {
+    background-color: #80ced6;
+}
+.blue_green_3 {
+    background-color: #fefbd8;
+}
+.blue_green_4 {
+    background-color: #618685;
+}
+
+.purple_red_1 {
+    background-color: #92a8d1;
+}
+.purple_red_2 {
+    background-color: #034f84;
+}
+.purple_red_3 {
+    background-color: #f7cac9;
+}
+.purple_red_4 {
+    background-color: #f7786b;
+}
+
+.flag_palette_1 {
+    background-color: #588c7e;
+}
+.flag_palette_2 {
+    background-color: #f2e394;
+}
+.flag_palette_3 {
+    background-color: #f2ae72;
+}
+.flag_palette_4 {
+    background-color: #d96459;
+}
