@@ -126,3 +126,33 @@ footer {
 .flag_palette_4 {
     background-color: #d96459;
 }
+
+/* WIKIPEDIA PALETTE */
+
+#wiki-background-1 {
+    background-color: #ffffff;
+}
+#wiki-background-2 {
+    background-color: #f9f9f9;
+}
+
+#wiki-green-1 {
+    background-color: #f5fffa;
+}
+#wiki-green-2 {
+    background-color: #cef2e0;
+}
+
+#wiki-blue-1 {
+    background-color: #f5faff;
+}
+#wiki-blue-2 {
+    background-color: #cee0f2;
+}
+
+#wiki-purple-1 {
+    background-color: #faf5ff;
+}
+#wiki-purple-2 {
+    background-color: #ddcdf2;
+}
